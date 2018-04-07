@@ -4,6 +4,4 @@ Since at least the proposal of the Turing test, building computational systems t
 
 The course will focus on text, but will touch on the full range of applicable techniques for language understanding, including formal logics, statistical methods, distributional methods, and deep learning, and will bring in ideas from formal linguistics where they can be readily used in practice. We’ll discuss tasks like sentiment analysis, word similarity, and question answering, as well as higher level issues like how to effectively represent language meaning.
 
-I'm taking this course for 2018 Spring instructed by Sam Bowman (instructor, CDS/Linguistics) of NYU.
-
-This respo
+I'm taking this course on 2018 Spring instructed by Sam Bowman (instructor, CDS/Linguistics) of NYU Center for Data Science. The homework, exercises and project I did for this course will be uploaded under this repository.
